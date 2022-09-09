@@ -1,11 +1,15 @@
 @import url('http://fonts.cdnfonts.com/css/international-super-hero');
 
 *{
-  font-family: 'International Super Hero Light', sans-serif;
+  
   font-size: 1em;
   letter-spacing: 3px;
 }
-
+html{
+    font-family: 'International Super Hero Light', sans-serif;
+    background-color: darkslategray;
+    color: #fff;
+}
 /* 
  You can add global styles to this file, and also import other style files 
 @import url('http://fonts.cdnfonts.com/css/international-super-hero');
@@ -37,10 +41,7 @@ ul{
 
 
 
-html{
-    background-color: darkslategray;
-    color: #fff;
-}
+
 
 
 fieldset{

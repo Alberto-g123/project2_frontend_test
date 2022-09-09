@@ -1,0 +1,23 @@
+<div>
+    <h1>Create new Student</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th><label for="firstNameInput">First Name</label></th>
+                <th><label for="lastNameInput">Last Name</label></th>
+                <th><label for="guardianInput">Guardian Email Address</label></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input name="firstNameInput" type="text" [(ngModel)] = "firstName" ></td>
+                <td><input name="lastNameInput" type="text" [(ngModel)] = "lastName" ></td>
+                <td><input name="guardianInput" type="text" [(ngModel)] = "guardianEmail" ></td>
+            </tr>
+        </tbody>
+    </table>
+
+
+<button (click)="createStudent()">Submit</button>
+</div>

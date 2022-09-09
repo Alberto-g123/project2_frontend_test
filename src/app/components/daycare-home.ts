@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 
 @Component({
     template: `
-        <div class="home-page">
+        <!-- <div class="home-page">
             <h1>The Superhero Babysitter's Daycare</h1>
             <h3>With great power comes great babysitting ability</h3>
         </div>
@@ -84,7 +84,7 @@ import { Component } from "@angular/core";
                         <p>I'm Batman</p>
                 </mat-card-content>
         </mat-card>
-        </Div>
+        </Div> -->
             
         
 

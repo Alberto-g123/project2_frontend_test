@@ -13,4 +13,6 @@ input{
 button{
     font-size: 3em;
 }
-
+ul{
+    list-style: none;
+}

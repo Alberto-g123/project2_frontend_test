@@ -21,6 +21,7 @@ import { AddStudentComponent } from './components/add-student/add-student.compon
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatCardModule } from '@angular/material/card';
 import { MatButtonModule } from "@angular/material/button";
+import { HomeComponent } from './components/home/home.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +37,7 @@ import { MatButtonModule } from "@angular/material/button";
     NavbarComponent,
     LoginComponent,
     AddStudentComponent,
+    HomeComponent,
     
   ],
   imports: [

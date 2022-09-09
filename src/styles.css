@@ -1,14 +1,14 @@
-@import url('http://fonts.cdnfonts.com/css/international-super-hero');
+/* @import url('http://fonts.cdnfonts.com/css/international-super-hero');
 
 *{
-  
+  font-family: 'International Super Hero Light', sans-serif;
   font-size: 1em;
   letter-spacing: 3px;
-}
+} */
 html{
-    font-family: 'International Super Hero Light', sans-serif;
-    background-color: darkslategray;
-    color: #fff;
+    
+    background-color: rgb(182, 182, 182);
+  
 }
 /* 
  You can add global styles to this file, and also import other style files 

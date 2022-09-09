@@ -1,3 +1,11 @@
+@import url('http://fonts.cdnfonts.com/css/international-super-hero');
+
+*{
+  font-family: 'International Super Hero Light', sans-serif;
+  font-size: 1em;
+  letter-spacing: 3px;
+}
+
 .home-page{
     text-align: center;
     margin-left: auto;

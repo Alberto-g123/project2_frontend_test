@@ -22,7 +22,7 @@ button{
     font-size: 2em;
 }
 
-mat-card{
+/* mat-card{
     width: 250px;
     margin-right: auto;
     margin-left: auto;
@@ -57,5 +57,5 @@ mat-card{
   
   .storm { grid-area: storm; }
   
-  .batman { grid-area: batman; }
+  .batman { grid-area: batman; } */
   
